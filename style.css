@@ -1,0 +1,25 @@
+.list{
+    background-color: gray;
+    font-family: sans-serif;
+    color: black;
+    text-align: justify;
+    
+}
+.table{
+    background-color: aquamarine;
+    font-family: sans-serif;
+    color: black;
+    text-align: justify;
+}
+body{
+    margin-top: 1%;
+    margin-left: 35%;
+}
+h1{
+    text-align: justify;
+    font-family: sans-serif;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
